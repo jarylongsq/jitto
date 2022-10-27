@@ -13,7 +13,7 @@ export const AccordianHeader = styled.button`
     cursor: pointer;
     background-color: plum;
     border-radius: 6px;
-//     padding: 10px;
+    padding: 10px;
     font-weight: 600;
     margin-top: 10px;
 
